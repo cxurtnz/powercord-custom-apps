@@ -1,0 +1,7 @@
+{
+  "name": "Custom Activities",
+  "version": "1.0.0",
+  "description": "allows you to embed any iframe-able content in discord. Replaces unused activity IDS",
+  "author": "logan",
+  "license": "MIT"
+}
